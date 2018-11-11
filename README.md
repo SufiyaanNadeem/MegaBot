@@ -6,6 +6,6 @@
     </embed>
 </object>
 
-[embed]http://sufiyaan.ca/Images/Mega Bot_Sufiyaan Nadeem.pdf[/embed]
+[embed]http://sufiyaan.ca/Images/Mega_Bot_Sufiyaan_Nadeem.pdf[/embed]
 
 # Video Demonstration Coming Soon
