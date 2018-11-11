@@ -1,5 +1,5 @@
 # MegaBot
-<img src="Images/Mega_Bot_Sufiyaan_Nadeem.pdf" width="100%"/> 
+<a href="Images/Mega Bot_Sufiyaan Nadeem.pdf"><img src="Images/MegaBot_ReadMe.jpg" width="100%"/> </a>
 
 
 
